@@ -32,6 +32,7 @@
     <a href="https://inkscape.org/"  target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg"  width="40" height="40"></a>
     <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" width="40" height="40"></a>
     <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40" height="40"></a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"></a>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/MRCG041"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/MRCG041" /></a></p><br><br>
