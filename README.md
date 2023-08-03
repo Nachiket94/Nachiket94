@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nachiket Somani</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<p align="left" justify-content="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nachiket94&theme=discord" alt="nachiket94" /></a> </p>
+<p align="left" justify-content="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nachiket94&theme=discord" alt="nachiket94"/></a> </p>
 
-- 🌱 I’m currently learning **Flask, Python, APIs**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML, CSS, Javascript**
+- 💬 Ask me about **HTML, CSS, Javascript, Web Design**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/nachiket-somani-60742424b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
