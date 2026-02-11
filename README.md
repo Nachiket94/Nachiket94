@@ -3,9 +3,9 @@
 
 <p align="left" justify-content="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nachiket94&theme=discord" alt="nachiket94"/></a> </p>
 
-- 🌱 I’m currently learning **OpenCV, CodeIgniter 4**
+- 🌱 I’m currently learning **OpenCV**
 
-- 💬 Ask me about **Python, HTML, CSS, Javascript, Web Design, PHP, MySql**
+- 💬 Ask me about **DB Design, Scalable System Design, NextJS, Python, Web Design, PHP, MySql, PostgreSQL**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/nachiket-somani-60742424b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
